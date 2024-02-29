@@ -48,8 +48,24 @@ main p{
     main h2{
         width: 30%;
     }
+    .section-1 h3{
+        width: 45%;
+        margin: auto;
+    }
 }
-
+.section-1{
+    background-color:rgba(54, 95, 163, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    
+}
+.section-2{
+    background-color: rgba(255, 255, 255, 1);
+}
 
 
  

@@ -33,6 +33,7 @@ main p{
     width: 100%;
 }
 
+/* mobile */
 @media (max-width:576px){
     main h2{
         width: 100%;
@@ -104,7 +105,7 @@ main p{
     /* width: 20px; */
 }
 
-
+/* footer  */
 svg{
     /* color: white; */
     width: 30px;
@@ -132,6 +133,10 @@ footer h2{
 footer h3{
     font-size: 16px;
     font-weight: 400;
+}
+.foot p{
+    font-size: 14px;
+    padding-bottom: 10px;
 }
 
  
